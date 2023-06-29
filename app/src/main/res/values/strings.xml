@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenInAppAssessment</string>
+    <string name="greeting">Good evening</string>
+    <string name="userName">Vishal Singh</string>
+</resources>
