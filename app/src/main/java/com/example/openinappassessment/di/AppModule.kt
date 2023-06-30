@@ -29,6 +29,4 @@ object AppModule {
             .build()
         return retrofit.create(OpenInAppApi::class.java)
     }
-
-
 }

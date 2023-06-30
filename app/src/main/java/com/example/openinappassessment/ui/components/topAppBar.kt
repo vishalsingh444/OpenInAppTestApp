@@ -1,4 +1,4 @@
-package com.example.openinappassessment.ui.navigation
+package com.example.openinappassessment.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -60,6 +60,6 @@ fun TopAppBar(screenName: String) {
 @Composable
 fun PreviewTopAppBar() {
     MaterialTheme{
-        TopAppBar(screenName = "DashBoard");
+        TopAppBar(screenName = "DashBoard")
     }
 }
